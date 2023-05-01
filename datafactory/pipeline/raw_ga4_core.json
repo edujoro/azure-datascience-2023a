@@ -6,6 +6,7 @@
 				"name": "Set variable1",
 				"type": "SetVariable",
 				"dependsOn": [],
+				"userProperties": [],
 				"typeProperties": {
 					"variableName": "demo",
 					"value": "demo"
